@@ -15,6 +15,8 @@
 
 <h2>📜 Certifications </h2>
 
+- **Coming Soon**
+
 <h2>🖥️ Home Lab Setup</h2>
 
 - Windows 11 (Functions as a Client) (Occasionally Switches to Linux Mint (Ubuntu-based/Linux))

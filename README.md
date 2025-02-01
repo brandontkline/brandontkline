@@ -1,6 +1,6 @@
 <svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <rect width="100%" height="100%" fill="white"/>
-<h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandontkline/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandontkline/">IT Support Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

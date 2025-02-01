@@ -29,7 +29,7 @@
 - <b>osTicket</b>
   - [Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)
   - [Post-Installation Configuration](projects/edu/os-ticket/2-post-install-config.md)
-  - [Usage: Tickets, Agents, and Adminstration](https://github.com/brandontkline/ticket-lifecycle)
+  - [Usage: Tickets, Agents, and Adminstration](projects/edu/os-ticket/3-osticket-usage.md)
 - <b>Active Directory Management</b>
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)

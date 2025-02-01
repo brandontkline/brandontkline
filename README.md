@@ -19,7 +19,7 @@
 
 <h2>🖥️ Home Lab Setup</h2>
 
-- Windows 11 (Functions as a Client) (Occasionally Switches to Linux Mint (Ubuntu-based/Linux))
+- Windows 11 (Functions as a Client) (Occasionally Switche to Linux Mint (Ubuntu-based/Linux))
 - Windows Server 2022 (Domain Contoller)(osTicket Installation)
 
 <h2>🚀 Projects:</h2>

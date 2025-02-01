@@ -54,5 +54,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<b>NEXT:</b> ( [Post-Installation Configuration](3-osticket-usage.md) ) <br>
-<b>PREV:</b> ( [Home Page](1-osticket-installation.md) )
+<b>NEXT:</b> ( [Usage: Tickets, Agents, and Adminstration](3-osticket-usage.md) ) <br>
+<b>PREV:</b> ( [Prerequisites and Installation](1-osticket-installation.md) )

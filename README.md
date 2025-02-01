@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<h2>🛠️Technical Expertise</h2>
+<h2>🛠️ Technical Expertise</h2>
 
 - (OS): Windows 10/11, Linux (Ubuntu)
 - (Networking): DNS, VPN
@@ -13,12 +13,14 @@
 - (Remote Support): Remote Desktop Connection
 - (Ticketing Systems): osTicket
 
-<h2>🖥️Home Lab Setup</h2>
+<h2>📜 Certifications </h2>
+
+<h2>🖥️ Home Lab Setup</h2>
 
 - Windows 11 (Functions as a Client) (Occasionally Switches to Linux Mint (Ubuntu-based/Linux))
 - Windows Server 2022 (Domain Contoller)(osTicket Installation)
 
-<h2>🚀Projects:</h2>
+<h2>🚀 Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)
@@ -28,7 +30,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brandontkline/azure-network-protocols)
 
-<h2>🌐Connect with me:</h2>
+<h2>🌐 Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="img/bluesky.svg" />][bluesky]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="img/instagram.svg" />][linkedin]

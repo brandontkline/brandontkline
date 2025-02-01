@@ -1,8 +1,7 @@
-<svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="white"/>
+
 <h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandontkline/">IT Support Specialist</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/osticket-prereqs.md)
@@ -12,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brandontkline/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🌐Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="img/bluesky.svg" />][bluesky]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="img/instagram.svg" />][linkedin]
@@ -21,4 +20,3 @@
 [bluesky]: masternetra.bsky.social
 [instagram]: https://www.instagram.com/brandontkline/
 [linkedin]: https://www.linkedin.com/in/brandontkline/
-</svg>

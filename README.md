@@ -1,6 +1,6 @@
 
 <h1> Hi, I'm Brandon! | <a href="https://www.linkedin.com/in/brandontkline/">IT Support Specialist</a>☺</h1>
- 📍 Based in Michigan, USA | 🏢 Open to roles in Content and Chat Moderation.
+ 📍 Based in Michigan, USA | 🏢 Also open to roles in Content and Chat Moderation.
  
 <br/>
 <br/>
@@ -24,7 +24,7 @@
 
 <h2>🚀 Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket How-to</b>
   - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)
   - [osTicket: Post-Installation Configuration](projects/edu/os-ticket/2-post-install-config.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brandontkline/ticket-lifecycle)

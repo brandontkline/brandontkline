@@ -14,9 +14,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.4.0/icons/bluesky.svg" />][bluesky]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | Twitter" width="22px" src="img/bluesky.svg" />][bluesky]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="img/instagram.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="img/linkedin.svg" />][instagram]
 
 [bluesky]: masternetra.bsky.social
 [instagram]: https://www.instagram.com/brandontkline/

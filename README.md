@@ -24,13 +24,17 @@
 
 <h2>🚀 Projects:</h2>
 
-- <b>osTicket How-to</b>
+<h3>Information Technology Projects</h3>
+
+- <b>osTicket</b>
   - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)
   - [osTicket: Post-Installation Configuration](projects/edu/os-ticket/2-post-install-config.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brandontkline/ticket-lifecycle)
+- <b>Active Directory Management</b>
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brandontkline/azure-network-protocols)
+ 
 <br/>
 <h2>🌐 Connect with me:</h2>
 

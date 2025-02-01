@@ -4,8 +4,8 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/osticket-prereqs/README.md)
-  - [osTicket: Post-Installation Configuration](projects/edu/os-ticket/post-install-config/README.md)
+  - [osTicket: Prerequisites and Installation](https://github.com/brandontkline/brandontkline/blob/main/projects/edu/os-ticket/osticket-prereqs/README.md)
+  - [osTicket: Post-Installation Configuration](https://github.com/brandontkline/brandontkline/blob/main/projects/edu/os-ticket/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/brandontkline/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)

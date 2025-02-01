@@ -1,7 +1,24 @@
 
-<h1>Hi, I'm Brandon, an <a href="https://www.linkedin.com/in/brandontkline/">IT Support Specialist</a>☺</h1>
+<h1> Hi, I'm Brandon! | <a href="https://www.linkedin.com/in/brandontkline/">IT Support Specialist</a>☺</h1>
+ 📍 Based in Michigan, USA | 🏢 Open to roles in Content and Chat Moderation.
+ 
+<br/>
+<br/>
 
-<h2>💻 Information Technology Projects:</h2>
+<h2>🛠️Technical Expertise</h2>
+
+- (OS): Windows 10/11, Linux (Ubuntu)
+- (Networking): DNS, VPN
+- (Tools): Power Shell, Terminal
+- (Remote Support): Remote Desktop Connection
+- (Ticketing Systems): osTicket
+
+<h2>🖥️Home Lab Setup</h2>
+
+- Windows 11 (Functions as a Client) (Occasionally Switches to Linux Mint (Ubuntu-based/Linux))
+- Windows Server 2022 (Domain Contoller)(osTicket Installation)
+
+<h2>🚀Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)

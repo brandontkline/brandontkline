@@ -53,5 +53,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<b>NEXT:</b> ( [osTicket: Post-Installation Configuration](2-post-install-config.md) ) <br>
+<b>NEXT:</b> ( [Post-Installation Configuration](2-post-install-config.md) ) <br>
 <b>PREV:</b> ( [Home Page](https://github.com/brandontkline/brandontkline/blob/main/README.md) )

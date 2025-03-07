@@ -28,12 +28,12 @@
 
 - <b>osTicket</b>
   - [Prerequisites and Installation](projects/edu/os-ticket/1-osticket-installation.md)
-  - [Post-Installation Configuration](projects/edu/os-ticket/2-post-install-config.md)
-  - [Usage: Tickets, Agents, and Adminstration](projects/edu/os-ticket/3-osticket-usage.md)
-- <b>Active Directory Management</b>
+  - Post-Installation Configuration (Coming Soon!)
+  - Usage: Tickets, Agents, and Adminstration (Coming Soon!)
+- <b>Active Directory Management</b> (Coming Soon!)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/brandontkline/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/brandontkline/azure-network-protocols)
+  - Configuring On-premises Active Directory within Azure VMs (Coming Soon!)
+  - Network Security Groups (NSGs) and Inspecting Network Protocols (Coming Soon!)
  
 <br/>
 <h2>🌐 Connect with me:</h2>
